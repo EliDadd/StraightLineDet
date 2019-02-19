@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/eli/catkin_ws/build/firebot",
+  "command": "/usr/bin/c++   -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"firebot\\\" -I/home/eli/catkin_ws/src/firebot/include -I/opt/ros/indigo/include    -std=c++11 -o CMakeFiles/launcher.dir/src/launcher.cpp.o -c /home/eli/catkin_ws/src/firebot/src/launcher.cpp",
+  "file": "/home/eli/catkin_ws/src/firebot/src/launcher.cpp"
+},
+{
+  "directory": "/home/eli/catkin_ws/build/firebot",
+  "command": "/usr/bin/c++   -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"firebot\\\" -I/home/eli/catkin_ws/src/firebot/include -I/opt/ros/indigo/include    -std=c++11 -o CMakeFiles/launcher.dir/src/Robot.cpp.o -c /home/eli/catkin_ws/src/firebot/src/Robot.cpp",
+  "file": "/home/eli/catkin_ws/src/firebot/src/Robot.cpp"
+},
+{
+  "directory": "/home/eli/catkin_ws/build/firebot",
+  "command": "/usr/bin/c++   -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"firebot\\\" -I/home/eli/catkin_ws/src/firebot/include -I/opt/ros/indigo/include    -std=c++11 -o CMakeFiles/launcher.dir/src/Endpoint.cpp.o -c /home/eli/catkin_ws/src/firebot/src/Endpoint.cpp",
+  "file": "/home/eli/catkin_ws/src/firebot/src/Endpoint.cpp"
+},
+{
+  "directory": "/home/eli/catkin_ws/build/firebot",
+  "command": "/usr/bin/c++   -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"firebot\\\" -I/home/eli/catkin_ws/src/firebot/include -I/opt/ros/indigo/include    -std=c++11 -o CMakeFiles/launcher.dir/src/Nav.cpp.o -c /home/eli/catkin_ws/src/firebot/src/Nav.cpp",
+  "file": "/home/eli/catkin_ws/src/firebot/src/Nav.cpp"
+}
+]
