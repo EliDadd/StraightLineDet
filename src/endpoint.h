@@ -15,7 +15,7 @@ public:
 	float getY();
 	float findAngle();
 	float findRad();
-
+	void clear();
 private:
 	float x;
 	float y;
